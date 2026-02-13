@@ -185,6 +185,9 @@ nav a.active {
     filter: invert();
 }
 
-.logo-contact{
-    margin-left: 35rem;
+.logo-contact {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 10px;
 }
